@@ -1,1 +1,2 @@
-# Clock-App using HTML CSS Javascript
+# Clock-App 
+using HTML, Vanilla Javascript and pure CSS.
